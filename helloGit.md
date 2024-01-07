@@ -8,10 +8,10 @@ git
 git 
 
 # Switch to a different branch
-git checkout <branch-name>
+git 
 
 # Add changes to the staging area
-git add <file-name>
+git 
 
 # Commit changes to the repository
 git commit -m "Commit message"
