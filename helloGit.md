@@ -5,13 +5,10 @@ git
 git 
 
 # Create a new branch
-<<<<<<< HEAD
-switch -c new_branch
+git switch -c new_branch
 
-=======
 git switch -c new_branch
 git branch -M new_branch
->>>>>>> origin/test
 # Switch to a different branch
 git 
 
