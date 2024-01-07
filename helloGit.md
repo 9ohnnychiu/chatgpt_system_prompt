@@ -78,3 +78,5 @@ git diff <file-name>
 
 # Show the differences between branches
 git diff <branch-name-1> <branch-name-2>
+
+# to be continuing ... 
