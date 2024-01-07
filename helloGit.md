@@ -6,7 +6,7 @@ git
 
 # Create a new branch
 git switch -c new_branch
-
+git branch -M new_branch
 # Switch to a different branch
 git 
 
