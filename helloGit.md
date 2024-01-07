@@ -1,11 +1,11 @@
 # Check the status of your repository
-git status
+git 
 
 # Show the commit history
-git log
+git 
 
 # Create a new branch
-git branch <branch-name>
+git 
 
 # Switch to a different branch
 git checkout <branch-name>
